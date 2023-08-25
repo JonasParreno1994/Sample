@@ -1,0 +1,22 @@
+{
+    "name": "loremphp/framework",
+    "description": "Lorem PHP Framework. A tool for a beginner or student. This is an Updated PHP Framework",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "php": "<=8.2",
+        "filp/whoops": "^2.12",
+        "symfony/console": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Loreto G. Gabawa Jr."
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Mycodesgit\\CodelyirPHP\\": "src/"
+        }
+    }
+}
